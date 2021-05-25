@@ -1,0 +1,23 @@
+/* .active{
+    background-color: #6cb2eb;
+    border-top-left-radius: 20% !important;
+    border-bottom-right-radius: 20%;
+    color: #FFF !important;
+
+} */
+button.btn {
+    cursor: pointer;
+}
+input[type=submit]{
+    cursor: pointer;
+}
+/* .profile_img{
+    width: 250px ;
+    height: 250px;
+    border: 10px solid #333;
+    border-radius: 50%;
+} */
+.wrapper2{
+    height: 100vh;
+
+}
