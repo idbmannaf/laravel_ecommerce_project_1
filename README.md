@@ -62,7 +62,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## How to Run
-1. First Download this projects
+1. First Download this projects and extract
 2. run npm install
 3. create a database with name laravelpractice
 4. import laravelpractice.sql
